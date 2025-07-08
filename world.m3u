@@ -18,3 +18,13 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 group-title="Movies",AMC East (1080p)
 https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="Movies",Paramount Network
+http://185.189.225.150:85/Paramount/index.m3u8
+
+#EXTINF:-1 group-title="Movies",FX East
+https://fl5.moveonjoy.com/FX/index.m3u8
+
+#EXTINF:-1 group-title="Movies",FXX East
+https://fl3.moveonjoy.com/FXX/index.m3u8
+
