@@ -49,3 +49,26 @@ https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8
 #EXTINF:-1 group-title="Kids",Disney Channel East
 https://fl5.moveonjoy.com/DISNEY/index.m3u8
+
+#EXTINF:-1 group-title="Новости",CNN
+https://ds2c506obo7m8.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-7zjq3tdqasbg8/index.m3u8
+#EXTINF:-1 group-title="Новости",BBC World News
+https://d1kvlt93j1bc49.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-6vpx7bvwjm7ao/v1/amcnetworks_bbcnews_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 group-title="Новости" tvg-logo="http://i115.fastpic.org/big/2021/0923/28/6c6a6cae8faf56699e1b067d6bc24a28.png",FOX NEWS CHANNEL FHD
+http://247preview.foxnews.com/hls/live/2020027/fncv3preview/primary.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild
+http://5.134.87.11:4600/NatGeoWild/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Nat Geo Wild HD
+http://178.217.72.66:8080/Nat_Geo_Wild/video.m3u8
+#EXTINF:-1 group-title="Познавательные",Ocean TV
+https://stream-msk-09.ott.tricolor.tv/dtv/id872_MSKSG-PVR-1--OCEAN_TV/02/plst.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic HD
+http://178.217.72.66:8080/National_Geographic/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery
+http://178.124.193.53:8181/play/1333/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Discovery Channel HD
+http://178.217.72.66:8080/Discovery_HD/video.m3u8
+#EXTINF:-1 group-title="Познавательные",Big Planet
+http://178.217.72.66:8080/big_planet/index.m3u8
+#EXTINF:-1 group-title="Познавательные",Love Nature
+http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
